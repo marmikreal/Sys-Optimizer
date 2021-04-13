@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5576DB3B-C32F-42A9-90C0-14D0E1D4461A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sys_Optimizer_1._0.My.MyApplication</StartupObject>
+    <RootNamespace>Sys_Optimizer_1._0</RootNamespace>
+    <AssemblyName>Sys Optimizer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sys Optimizer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sys Optimizer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>sys optimizer fade.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addarvinacc.Designer.vb">
+      <DependentUpon>addarvinacc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="addarvinacc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Analyse.vb" />
+    <Compile Include="Classes\ButtonEx.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\ClsWMI.vb" />
+    <Compile Include="Classes\Delete.vb" />
+    <Compile Include="Classes\DeleteOthFls.vb" />
+    <Compile Include="Classes\EnumProcessAssoc.vb" />
+    <Compile Include="Classes\EnumSoftwareAssoc.vb" />
+    <Compile Include="Classes\Graph.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Misc.vb" />
+    <Compile Include="forms\About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\AddGame.Designer.vb">
+      <DependentUpon>AddGame.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\AddGame.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\AddProcess.Designer.vb">
+      <DependentUpon>AddProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\AddProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\AddSoftwares.Designer.vb">
+      <DependentUpon>AddSoftwares.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\AddSoftwares.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Crash Box.Designer.vb">
+      <DependentUpon>Crash Box.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Crash Box.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Debug Info.Designer.vb">
+      <DependentUpon>Debug Info.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Debug Info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FirstRun.Designer.vb">
+      <DependentUpon>FirstRun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FirstRun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\InstallPlugin.Designer.vb">
+      <DependentUpon>InstallPlugin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\InstallPlugin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\InternetFiles.Designer.vb">
+      <DependentUpon>InternetFiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\InternetFiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\main.Designer.vb">
+      <DependentUpon>main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\MessageBoxEx.Designer.vb">
+      <DependentUpon>MessageBoxEx.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\MessageBoxEx.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\MsgBoxExChrome.Designer.vb">
+      <DependentUpon>MsgBoxExChrome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\MsgBoxExChrome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\MsgBoxExThunBird.Designer.vb">
+      <DependentUpon>MsgBoxExThunBird.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\MsgBoxExThunBird.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\OtherFiles.Designer.vb">
+      <DependentUpon>OtherFiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\OtherFiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\PassCheckLiveTuner.Designer.vb">
+      <DependentUpon>PassCheckLiveTuner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\PassCheckLiveTuner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Settings.Designer.vb">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\SysSplash.Designer.vb">
+      <DependentUpon>SysSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\SysSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Updatedlg.Designer.vb">
+      <DependentUpon>Updatedlg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Updatedlg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="addarvinacc.resx">
+      <DependentUpon>addarvinacc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\AddGame.resx">
+      <DependentUpon>AddGame.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\AddProcess.resx">
+      <DependentUpon>AddProcess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\AddSoftwares.resx">
+      <DependentUpon>AddSoftwares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Crash Box.resx">
+      <DependentUpon>Crash Box.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Debug Info.resx">
+      <DependentUpon>Debug Info.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FirstRun.resx">
+      <DependentUpon>FirstRun.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\InstallPlugin.resx">
+      <DependentUpon>InstallPlugin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\InternetFiles.resx">
+      <DependentUpon>InternetFiles.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\main.resx">
+      <DependentUpon>main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\MessageBoxEx.resx">
+      <DependentUpon>MessageBoxEx.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\MsgBoxExChrome.resx">
+      <DependentUpon>MsgBoxExChrome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\MsgBoxExThunBird.resx">
+      <DependentUpon>MsgBoxExThunBird.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\OtherFiles.resx">
+      <DependentUpon>OtherFiles.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\PassCheckLiveTuner.resx">
+      <DependentUpon>PassCheckLiveTuner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Settings.resx">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\SysSplash.resx">
+      <DependentUpon>SysSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Updatedlg.resx">
+      <DependentUpon>Updatedlg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1371432167_window_list.png" />
+    <None Include="Resources\1390669896_bullet-yellow.png" />
+    <None Include="Resources\1390669904_bullet-green.png" />
+    <None Include="Resources\1390670137_Zoom.png" />
+    <None Include="Resources\backfor.png" />
+    <None Include="Resources\backforover.png" />
+    <None Include="Resources\back1.png" />
+    <None Include="Resources\over.png" />
+    <None Include="Resources\1405694008_search-b.png" />
+    <None Include="Resources\1405694119_search.png" />
+    <None Include="Resources\right.png" />
+    <None Include="Resources\left.png" />
+    <None Include="Resources\right hover.png" />
+    <None Include="Resources\left hover.png" />
+    <Content Include="sys optimizer fade.ico" />
+    <Content Include="Sys Optimizer new icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\enumSoftware\enumSoftware.vbproj">
+      <Project>{B130C5D3-E1C0-4A51-B5B9-EE56D02922DB}</Project>
+      <Name>enumSoftware</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Functiod\Functiod.vbproj">
+      <Project>{CB815E5C-74DF-4306-89E9-BFCB75EE4A57}</Project>
+      <Name>Functiod</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Processes\Processes.vbproj">
+      <Project>{E98C003E-FB66-4A08-9A49-2E2409F06CE2}</Project>
+      <Name>Processes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\starter\starter.vbproj">
+      <Project>{2946F97F-3994-4D7F-A789-3D81A68661F8}</Project>
+      <Name>starter</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\sysoptimiconsole\sysoptimiconsole.vbproj">
+      <Project>{E079BC49-CFC6-4719-A0DC-0B74D8D91B14}</Project>
+      <Name>sysoptimiconsole</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Shell32">
+      <Guid>{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

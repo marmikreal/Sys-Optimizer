@@ -1,0 +1,10 @@
+E:\Sys Optimizer v1.0\enumSoftware\bin\Release\enumSoftware.dll
+E:\Sys Optimizer v1.0\enumSoftware\bin\Release\enumSoftware.pdb
+E:\Sys Optimizer v1.0\enumSoftware\bin\Release\enumSoftware.xml
+E:\Sys Optimizer v1.0\enumSoftware\obj\Release\ResolveAssemblyReference.cache
+E:\Sys Optimizer v1.0\enumSoftware\obj\Release\enumSoftware.Resources.resources
+E:\Sys Optimizer v1.0\enumSoftware\obj\Release\ResGen.read.1.tlog
+E:\Sys Optimizer v1.0\enumSoftware\obj\Release\ResGen.write.1.tlog
+E:\Sys Optimizer v1.0\enumSoftware\obj\Release\enumSoftware.dll
+E:\Sys Optimizer v1.0\enumSoftware\obj\Release\enumSoftware.xml
+E:\Sys Optimizer v1.0\enumSoftware\obj\Release\enumSoftware.pdb

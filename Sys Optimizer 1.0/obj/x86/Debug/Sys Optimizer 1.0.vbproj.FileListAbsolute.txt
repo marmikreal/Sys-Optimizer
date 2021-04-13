@@ -1,0 +1,504 @@
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+D:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResGen.read.1.tlog
+G:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResGen.write.1.tlog
+H:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+H:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+H:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+F:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResGen.read.1.tlog
+I:\Arvin Soft Projects\Backup 9\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResGen.write.1.tlog
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.LicenseCheck.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SerialCheck.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+J:\Arvin Soft Projects\Backup 10\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe.config
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddProcess.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.LicenseCheck.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.PassCheckLiveTuner.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SerialCheck.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResGen.read.1.tlog
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\ResGen.write.1.tlog
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+E:\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe.config
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddProcess.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.LicenseCheck.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.PassCheckLiveTuner.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SerialCheck.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Interop.Shell32.dll
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Interop.Shell32.dll
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.ResolveComReference.cache
+C:\Partition (D)\Arvin Soft Project Latest update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InstallPlugin.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe.config
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Interop.Shell32.dll
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.ResolveComReference.cache
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Interop.Shell32.dll
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddProcess.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InstallPlugin.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.LicenseCheck.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.PassCheckLiveTuner.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SerialCheck.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+E:\Arvin Soft latest Update\Arvin Soft Projects Stage 4\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe.config
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Interop.Shell32.dll
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.ResolveComReference.cache
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddProcess.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InstallPlugin.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.LicenseCheck.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.PassCheckLiveTuner.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SerialCheck.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SystemInformation.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+E:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Interop.Shell32.dll
+\\ARAVINDH-PC\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe.config
+\\ARAVINDH-PC\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Interop.Shell32.dll
+\\ARAVINDH-PC\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.ResolveComReference.cache
+\\ARAVINDH-PC\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+\\ARAVINDH-PC\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+\\ARAVINDH-PC\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe.config
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.exe
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.pdb
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 1.0.xml
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.exe
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.exe
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.pdb
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.xml
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.pdb
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.xml
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Interop.Shell32.dll
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Interop.Shell32.dll
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.ResolveComReference.cache
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddGame.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddProcess.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddSoftwares.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InstallPlugin.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.PassCheckLiveTuner.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.ShowYouAround.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.exe
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.xml
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.pdb
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MsgBoxExChrome.resources
+D:\Arvin Soft Projects Stage 5\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MsgBoxExThunBird.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 2.0.exe.config
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 2.0.exe
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 2.0.pdb
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 2.0.xml
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.exe
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.exe
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.pdb
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.pdb
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.xml
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Interop.Shell32.dll
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Interop.Shell32.dll
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.ResolveComReference.cache
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddGame.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddProcess.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddSoftwares.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Debug_Info.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InstallPlugin.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MsgBoxExChrome.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MsgBoxExThunBird.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.PassCheckLiveTuner.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 2.0.exe
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 2.0.xml
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 2.0.pdb
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.xml
+D:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 2.0.exe.config
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Interop.Shell32.dll
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.ResolveComReference.cache
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 2.0.exe
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 2.0.xml
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 2.0.pdb
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 2.0.exe
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 2.0.pdb
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer 2.0.xml
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.exe
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.exe
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.pdb
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.xml
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.pdb
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.xml
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Interop.Shell32.dll
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojResolveAssemblyReference.cache
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddGame.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddProcess.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddSoftwares.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Debug_Info.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InstallPlugin.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MsgBoxExChrome.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MsgBoxExThunBird.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.PassCheckLiveTuner.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+F:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.addarvinacc.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Interop.Shell32.dll
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.ResolveComReference.cache
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.dll
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.dll
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.dll
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.exe
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.exe
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.pdb
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\enumSoftware.xml
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.pdb
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Functiod.xml
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.pdb
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Processes.xml
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.pdb
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\starter.xml
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.pdb
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\sysoptimiconsole.xml
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Interop.Shell32.dll
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.addarvinacc.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.About.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddGame.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddProcess.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.AddSoftwares.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Crash_Box.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Debug_Info.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.FirstRun.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InstallPlugin.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.InternetFiles.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.main.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MessageBoxEx.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MsgBoxExChrome.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.MsgBoxExThunBird.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.OtherFiles.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.PassCheckLiveTuner.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Settings.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.SysSplash.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Updatedlg.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys_Optimizer_1._0.Resources.resources
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.GenerateResource.Cache
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer.exe.config
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer.exe
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer.pdb
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\bin\Debug\Sys Optimizer.xml
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer.exe
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer.xml
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer.pdb
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.CoreCompileInputs.cache
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbprojAssemblyReference.cache
+H:\Arvin Soft Projects Stage 6\Sys Optimizer 1.0\Sys Optimizer 1.0\obj\x86\Debug\Sys Optimizer 1.0.vbproj.CopyComplete

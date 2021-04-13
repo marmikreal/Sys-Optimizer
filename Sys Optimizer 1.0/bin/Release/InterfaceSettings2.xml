@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sysoptimizer>
+<options>
+<size>
+<startwidth>678</startwidth>
+<minwidth>678</minwidth>
+<startheight>542</startheight>
+<minheight>540</minheight>
+</size>
+<prop>
+<title>naga</title>
+<maxbut>1</maxbut>
+<minbut>1</minbut>
+<ctrlbx>0</ctrlbx>
+</prop>
+</options>
+</sysoptimizer>

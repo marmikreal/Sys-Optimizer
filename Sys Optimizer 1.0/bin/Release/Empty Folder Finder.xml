@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginSettings>
+<Data>
+<pluginnameexe>Empty folder finder.exe</pluginnameexe>
+<desc>The empty folder finder will search and delete the empty folder in the user drive</desc>
+<ver>0.2</ver>
+<pub>Arvin Soft</pub>
+</Data>
+</PluginSettings>
